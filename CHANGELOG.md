@@ -1,4 +1,7 @@
 # Changelog
+## Version 1.0.21 on 22 September 2026
+- Added the Klarna payment method
+
 ## Version 1.0.20 on 28 October 2025
 - Fixed an error that occurred during reindexing when the flat catalog was enabled.
 
